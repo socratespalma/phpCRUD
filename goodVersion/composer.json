@@ -1,0 +1,15 @@
+{
+    "name": "socrates/good-version",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Socrates",
+            "email": "dubstepero10@gmail.com"
+        }
+    ],
+    "require": {}
+}

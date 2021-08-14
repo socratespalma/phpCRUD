@@ -1,0 +1,13 @@
+body {
+  /* margin: 0 auto; */
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.thumb-image {
+  width: 50px;
+}
+
+.update-image {
+  width: 120px;
+}
